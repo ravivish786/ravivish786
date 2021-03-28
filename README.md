@@ -46,14 +46,14 @@ I currently lives in Varanasi.
 
 
 
-- 👋 Hi, I’m @ravivish786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ <h1>How to reach me ...</h1><hr>
 
       Whatsapp   -   6306509665  
-      Email      - vv5845055@gmail.com
+      Email      -   vv5845055@gmail.com
+      LinkedIn   -   https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6
+      Github     -   https://github.com/ravivish786
+    
+
 
 <!---
 ravivish786/ravivish786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
