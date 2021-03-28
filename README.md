@@ -53,15 +53,6 @@ I currently lives in varanasi.
 -   The cards are arranged randomly on the grid with the symbol face down
 -   Language used:HTML,CSS,JS
 
-
-## CERTIFICATE AND ACHIEVEMENTS
--   Star C++ Programming From Star Certification
--   Introduction to Python from DataCamp
--   SQL BootCamp from DataCamp
--   Intermediate SQL from DataCamp
--   Introduction to Git from DataCamp
--   Introduction to Relational Databases in SQL from DataCamp
--   LibraOffice Suite Base Training From IIT Mumbai
 ## EDUCATION
 |Degree                |Board|Percentage/CGPA|
 |----------------|-------------------------------|-----------------------------|
@@ -72,17 +63,15 @@ I currently lives in varanasi.
 
 ##  CONTACTS
 
-Email-[Mail-kkmaurya.0095@gmail.com](mailto:kkmaurya.0095@gmail.com)
-
-LinkedIn - [Linkedin-https://www.linkedin.com/in/kishan-maurya-098994152/](https://www.linkedin.com/in/kishan-maurya-098994152/)
-
-Github - [Github  https://github.com/KishanMaurya](https://github.com/KishanMaurya)
-
-Portfolio - [Portfolio  https://commingSoon.me/](https://coomingsoon.me/)
+Email-[Mail-vv5845055@gmail.com](mailto:vv5845055@gmail.com)
+LinkedIn - [Linkedin-https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6](https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6)
+Github - [Github  https://github.com/ravivish786](https://github.com/ravivish786)
 
 ## Area of interest and life Goals
 
--   Front-End Web Development, User Experience, User Interface
--   Full stack developer
+-   Front-End Web Development
+-   Desktop Application Development 
+-   Software Development in java 
+-   Full stack developer in desktop application
 -   A healthy and good lifestyle,
 -   I like to code and I cannot lie 
