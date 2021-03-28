@@ -26,32 +26,14 @@ I currently lives in varanasi.
  - Sqlite
  - Mysql
 
-## Work Experience
+## Programming language  
+ - C language
+ - C++
+ - Core Java
+ - Javafx
+ - J2EE
+ - Python
 
-**Accucia Software Pvt Ltd** - working as Software developer
-
-  - Handling the Backend and Frontent part of projects 
-  - Present Here
-**Hives Labs** - working as Software developer
-
- - Handling the Backend and Frontent part of projects 
-
-
-**Globalized Dreams Digital Pvt. Ltd.** - PHP Web Developer
-
-## Projects
-
-### [Personal Portfolio](https://commingSoon.me/) | A website to showcase projects
-
--   It is 100% PWA user can install it via chrome after installation work like native app
--   it can work offline with the help of sercice worker
--   Language used: HTML ,CSS ,Matrailize, JS
-
-### [Classic Memory Game](https://shadabali.me/fend-project-memory-game/) | A card matching Game
-
--   A complete browser-based card matching game (also known as Concentration).
--   The cards are arranged randomly on the grid with the symbol face down
--   Language used:HTML,CSS,JS
 
 ## EDUCATION
 |Degree                |Board|Percentage/CGPA|
@@ -64,7 +46,9 @@ I currently lives in varanasi.
 ##  CONTACTS
 
 Email-[Mail-vv5845055@gmail.com](mailto:vv5845055@gmail.com)
+
 LinkedIn - [Linkedin-https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6](https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6)
+
 Github - [Github  https://github.com/ravivish786](https://github.com/ravivish786)
 
 ## Area of interest and life Goals
