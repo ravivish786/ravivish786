@@ -41,15 +41,18 @@ I currently lives in Varanasi.
         NetBeans IDE 8.2
         Eclipse IDE
 
+<h3>Education</h3><hr>
 
+       
 
 <h3>Area of interest and life Goals</h3><hr>
-        
-        Front-End Web Development, User Experience, User Interface
-        Full stack developer
-        A healthy and good lifestyle,
-        I like to code and I cannot lie        
-        
+        <ul>
+                <li>Front-End Web Development</li>
+                <li>Desktop Application Development</li>
+                <li>Full Stack Development in Desktop Application</li>
+                <li>A healthy and good lifestyle</li>
+                <li>I like to code and I cannot lie</li>      
+        </ul>
 
 <h1>How to reach me ...</h1><hr>
 
