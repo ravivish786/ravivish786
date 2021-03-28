@@ -1,69 +1,88 @@
-<h1>Welcome to Ravi Vishwakarma github resume!</h1>
+## Welcome to Ravi Vishwakarma github resume!
 
-<h2>Introduction :</h2>
+### Introduction :
+Hi! I'm Ravi Vishwakarma . I live in Varanasi , India . I did my 10<sup>th</sup> and 12<sup>th</sup> from UP Board. I have Completed bachelor's of computer application at Mahatma Gandhi Kashi Vidyapeeth from varanasi. Currently I have appearing MCA from Veer Bahadur Singh Purvanchl Univesity with current CGPA of 7.64.
 
-Hi! I'm Ravi Vishwakarma . I live in Varanasi ,India . I did my 10th and 12th from UP Board. I have Completed bachelor's of computer application at Mahatma Gandhi Kashi Vidyapeeth from varanasi. Currently I have pursuing MCA from Veer Bahadur Singh Purvanchal University Jaunpur.
+I currently lives in varanasi.
+ 
+# Technology Stack
 
-I currently lives in Varanasi.
+## Frontend 
+ 
+ - HTML5
+ - CSS3
+ - Javascript
+ - Bootstrap    
+ 
+ ## Backend
 
-<h1>Technology Stack</h1></hr>
+ - PHP
+ - Jsp
 
-<h3>Frontend</h3><hr>
+ ## Framework
+ - Hibernate
+ 
+ ## Database 
+ - Sqlite
+ - Mysql
 
-        HTML5
-        CSS3
-        Javascript
-        Bootstrap
-        
-<h3>Backend</h3><hr>
+## Work Experience
 
-        PHP
-        Jsp
-        
-<h3>Framework</h3><hr>
+**Accucia Software Pvt Ltd** - working as Software developer
 
-        Hibernate
+  - Handling the Backend and Frontent part of projects 
+  - Present Here
+**Hives Labs** - working as Software developer
 
-<h3>Database</h3><hr>
-
-        Mysql
-        Sqlite
-
-<h3>Programming Language</h3><hr>
-
-        C
-        C++
-        Java
-        Javafx
-        
-<h3>IDE</h3><hr>
-
-        NetBeans IDE 8.2
-        Eclipse IDE
-
-<h3>Education</h3><hr>
-
-       
-
-<h3>Area of interest and life Goals</h3><hr>
-        <ul>
-                <li>Front-End Web Development</li>
-                <li>Desktop Application Development</li>
-                <li>Full Stack Development in Desktop Application</li>
-                <li>A healthy and good lifestyle</li>
-                <li>I like to code and I cannot lie</li>      
-        </ul>
-
-<h1>How to reach me ...</h1><hr>
-
-        Whatsapp   -   6306509665  
-        Email      -   vv5845055@gmail.com
-        LinkedIn   -   https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6
-        Github     -   https://github.com/ravivish786
-    
+ - Handling the Backend and Frontent part of projects 
 
 
-<!---
-ravivish786/ravivish786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Globalized Dreams Digital Pvt. Ltd.** - PHP Web Developer
+
+## Projects
+
+### [Personal Portfolio](https://commingSoon.me/) | A website to showcase projects
+
+-   It is 100% PWA user can install it via chrome after installation work like native app
+-   it can work offline with the help of sercice worker
+-   Language used: HTML ,CSS ,Matrailize, JS
+
+### [Classic Memory Game](https://shadabali.me/fend-project-memory-game/) | A card matching Game
+
+-   A complete browser-based card matching game (also known as Concentration).
+-   The cards are arranged randomly on the grid with the symbol face down
+-   Language used:HTML,CSS,JS
+
+
+## CERTIFICATE AND ACHIEVEMENTS
+-   Star C++ Programming From Star Certification
+-   Introduction to Python from DataCamp
+-   SQL BootCamp from DataCamp
+-   Intermediate SQL from DataCamp
+-   Introduction to Git from DataCamp
+-   Introduction to Relational Databases in SQL from DataCamp
+-   LibraOffice Suite Base Training From IIT Mumbai
+## EDUCATION
+|Degree                |Board|Percentage/CGPA|
+|----------------|-------------------------------|-----------------------------|
+|10<sup>th</sup>|`UP`            |71.5%            |
+|12<sup>th</sup>|`UP`            |59.%            |
+|BCA (2019)         |`Mahtma Gandhi Kashi Vidyapeeth Varanasi`|67%|
+|MCA(2021)|`Veer Bahadur Singh Purvanchl University`|7.64cgpa|
+
+##  CONTACTS
+
+Email-[Mail-kkmaurya.0095@gmail.com](mailto:kkmaurya.0095@gmail.com)
+
+LinkedIn - [Linkedin-https://www.linkedin.com/in/kishan-maurya-098994152/](https://www.linkedin.com/in/kishan-maurya-098994152/)
+
+Github - [Github  https://github.com/KishanMaurya](https://github.com/KishanMaurya)
+
+Portfolio - [Portfolio  https://commingSoon.me/](https://coomingsoon.me/)
+
+## Area of interest and life Goals
+
+-   Front-End Web Development, User Experience, User Interface
+-   Full stack developer
+-   A healthy and good lifestyle,
+-   I like to code and I cannot lie 
