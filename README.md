@@ -1,6 +1,6 @@
-Welcome to Ravi Vishwakarma github resume!
+<h1>Welcome to Ravi Vishwakarma github resume!</h1>
 
-Introduction :
+<h2>Introduction :</h2>
 
 Hi! I'm Ravi Vishwakarma . I live in Varanasi ,India . I did my 10th and 12th from UP Board. I have Completed bachelor's of computer application at Mahatma Gandhi Kashi Vidyapeeth from varanasi. Currently I have pursuing MCA from Veer Bahadur Singh Purvanchal University Jaunpur.
 
@@ -40,18 +40,23 @@ I currently lives in Varanasi.
 
         NetBeans IDE 8.2
         Eclipse IDE
+
+
+
+<h3>Area of interest and life Goals</h3><hr>
         
+        Front-End Web Development, User Experience, User Interface
+        Full stack developer
+        A healthy and good lifestyle,
+        I like to code and I cannot lie        
         
-        
 
+<h1>How to reach me ...</h1><hr>
 
-
- <h1>How to reach me ...</h1><hr>
-
-      Whatsapp   -   6306509665  
-      Email      -   vv5845055@gmail.com
-      LinkedIn   -   https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6
-      Github     -   https://github.com/ravivish786
+        Whatsapp   -   6306509665  
+        Email      -   vv5845055@gmail.com
+        LinkedIn   -   https://www.linkedin.com/in/ravi-vishwakarma-a20b451b6
+        Github     -   https://github.com/ravivish786
     
 
 
