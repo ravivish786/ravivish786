@@ -16,7 +16,6 @@ I currently lives in varanasi.
  
  ## Backend
 
- - PHP
  - Jsp
 
  ## Framework
